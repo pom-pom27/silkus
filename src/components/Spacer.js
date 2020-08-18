@@ -9,6 +9,6 @@ export default Spacer;
 
 const styles = StyleSheet.create({
   container: {
-    marginHorizontal: 25,
+    marginHorizontal: 20,
   },
 });
